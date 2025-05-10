@@ -27,10 +27,10 @@ PH28A5O661X6W605O1S1
 1=true /chức năng auto nuôi pet
 2=true /chức năng auto nghiền
 3=true /chức năng auto chuyển nl
-4=false /chức năng auto tiên khí
-5=false /chức năng auto làm đồ full set
-6=false /chức năng auto vận tiêu
-7=false /chức năng auto ăn tranh
-8=false /chức năng auto d2
-9=false /chức năng auto ttl
-10=false /chức năng auto mua nhanh(trên thành)
+4=true /chức năng auto tiên khí
+5=true /chức năng auto làm đồ full set
+6=true /chức năng auto vận tiêu
+7=true /chức năng auto ăn tranh
+8=true /chức năng auto d2
+9=true /chức năng auto ttl
+10=true /chức năng auto mua nhanh(trên thành)
