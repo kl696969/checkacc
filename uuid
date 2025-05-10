@@ -23,13 +23,14 @@ S6E103A2Z435Q1S5P3I4
 PH28A5O661X6W605O1S1
 5V2G6W14285R4R82X2D6
 21X592B4J324Y205G12F
-0=true /chức năng 1
-1=true /chức năng 3
-2=true /chức năng 3
-3=false
-4=false
-5=true
-6=true
-7=true
-8=true
-9=true
+0=true /chức năng auto tbt
+1=true /chức năng auto nuôi pet
+2=true /chức năng auto nghiền
+3=true /chức năng auto chuyển nl
+4=false /chức năng auto tiên khí
+5=false /chức năng auto làm đồ full set
+6=false /chức năng auto vận tiêu
+7=false /chức năng auto ăn tranh
+8=false /chức năng auto d2
+9=false /chức năng auto ttl
+10=false /chức năng auto mua nhanh(trên thành)
